@@ -9,4 +9,4 @@
 - JS,
 - БЭМ методология
 
-[Смотреть демо](https://github.com/alCherkasov/Modimal/tree/main)
+[Смотреть демо](https://alcherkasov.github.io/Modimal/)
